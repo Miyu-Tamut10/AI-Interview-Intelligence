@@ -1,0 +1,44 @@
+# ================================
+# Core Scientific Stack
+# ================================
+numpy==1.26.4
+scipy==1.11.4
+soundfile==0.12.1
+python-dateutil==2.8.2
+Pillow==10.2.0
+
+# ================================
+# Computer Vision & Video
+# ================================
+opencv-python==4.9.0.80
+mediapipe==0.10.13          # PINNED (mp.solutions compatible)
+ffmpeg-python==0.2.0
+
+# ================================
+# Audio Processing
+# ================================
+librosa==0.10.1
+
+# ================================
+# Deep Learning & NLP
+# ================================
+torch==2.2.0
+transformers==4.36.2
+sentence-transformers==2.2.2
+
+# ================================
+# Speech Recognition
+# ================================
+openai-whisper==20231117
+
+# ================================
+# Web Application
+# ================================
+streamlit==1.30.0
+
+# ================================
+# Development & Testing (Optional)
+# ================================
+pytest==7.4.4
+black==23.12.1
+flake8==6.1.0
